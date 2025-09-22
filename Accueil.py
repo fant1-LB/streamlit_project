@@ -9,4 +9,4 @@ st.dataframe(df,
     "Image recto":st.column_config.ImageColumn("Image recto", width="large"), "Image verso":st.column_config.ImageColumn("Image verso", width="large")},hide_index=True)
 
 
-st.html("<p  style='text-align:center'>Application réalisée par Fantin Le Ber, données annnotées par Marie-Louise Kitoko et Sihem Yousfi dans le cadre du projet ANR highvision <br><img src='https://highvision.hypotheses.org/files/2025/03/cropped-Logo_High_Vision_4.jpg'></p> ")
+st.html("<p  style='text-align:center'>Application réalisée par Fantin Le Ber, données annotées par Marie-Louise Kitoko et Sihem Yousfi dans le cadre du projet ANR highvision <br><img src='https://highvision.hypotheses.org/files/2025/03/cropped-Logo_High_Vision_4.jpg'></p> ")
