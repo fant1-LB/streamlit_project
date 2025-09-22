@@ -1,3 +1,3 @@
 #ignorer les datas pas nettoyées
 test_combine.csv
-manip_nettoyage/*
+manip_nettoyage/
